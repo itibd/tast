@@ -1,0 +1,128 @@
+sudu apt update && Upgrade
+pwd 
+tuch aman.txt
+mkdir aman
+cd aman
+history  
+cp aman/file.txt. files/
+cp -r aman files
+ls
+cp aman/* notes/
+cp *.doc aman/
+rm -r notes/
+cat aman.txt
+cat >> aman.txt
+akkdjffasok
+djfjdlasjf
+akjdfklsjf
+adjkljafs
+cat > aman.txt
+tuch .git 
+ls -a 
+ls -la
+ls -lt
+find aman -name aman.txt
+find aman -name *.txt
+locate aman.txt
+sudo apt install plocate
+less doc.txt
+more doc.txt
+head doc.txt
+head -n 5 domo.txt
+
+tail doc.txt
+tail -n 5 domo.txt
+echo -e " taoamr\n name\n ki"
+name= "aman"
+echo $name 
+whoami
+who
+sort alphab.txt
+sort -r alphab.txt
+sort numb.txt
+sort -n numb.txt
+sort -n -r numb.txt
+word coount- wc
+wc anan.txt
+wc -c anan.txt
+wc -l anan.txt
+wc -w anan.txt
+disk use= du
+du -h
+du -s -h
+free
+free -t 
+free -t -h
+free -t -b
+free -t -g
+free -t -m
+disk system show file= df 
+df 
+df -t 
+df -t -h
+df -t -b
+df -t -g
+df -t -m
+
+file system permission 
+File system permission 3 types of file system in liunux machine
+1. read 
+2. write
+3. execute
+read =r, write=w, execute=x
+1. read=4
+2. write=2
+3. execute=1
+the sum of the full permission in value is 4+2+1=7
+user- group- guset
+https://www.section.io/engineering-education/user-groups-and-permissions-linux/#File-permissions
+ls -l
+chmod u+x aman.sh
+chmod g-w aman.sh
+chmod o+w+x aman.sh
+chmod a+x extra.txt
+sudo chonw akash aman.txt
+sudo chgrp akash extra.txt
+------------
+sudo useradd fingu
+id fingu
+id root
+sudo passwd fingu
+su fingu
+whoami
+exit
+sudu userdel fingu
+sudo groupadd nin
+sudo usermod -g fingu akash
+sudo gpasswd -d akash fingu 
+sudo groupdel nin
+sudo adduser moni 
+--------------------
+cat alphat.txt | head -2
+cat alphat.txt | grep ee
+**********
+https://www.geeksforgeeks.org/fdisk-command-in-linux-with-examples/
+tuch main.txt
+vim main.txt
+shift+I
+otadfkj
+asjodfdsa
+adldkjf
+Esc
+:wq 
+/aman
+dd
+d3
+jkls
+ AWK Command in linux
+https://www.geeksforgeeks.org/awk-command-unixlinux-examples/
+https://www.geeksforgeeks.org/cut-command-linux-examples/
+https://www.geeksforgeeks.org/uniq-command-in-linux-with-examples/
+https://www.interviewkickstart.com/learn/sed-command-in-linux-unix-with-examples
+tar cvf file.tar *.txt
+tar xvf file.tar
+gzip a.txt
+gzip -k b.txt
+gzip -r aman
+gzip -d b.txt.gz
+

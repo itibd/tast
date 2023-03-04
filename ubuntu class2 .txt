@@ -1,0 +1,104 @@
+blender
+sudo -i 
+exit 
+cd..
+ls
+cd Decoument/
+ls 
+mkdir dir 
+rmdir dir 
+cat > file
+djfalkjdlkfjdkf
+ctrl+z
+gedit file 
+ls -l
+ls -a
+ls -all
+sudo apt install go*
+sudo apt install leafpad*
+sudo snap install leafpad*
+sudo snap install gedit*
+sudo apt install vim*
+vim file 
+I
+Esc keyls 
+wq
+file file 
+wc file 
+head file 
+tail file 
+tail -n 2 file 
+date 
+cal
+sudo apt install ncal 
+date 
+
+**********************
+ls /
+ls -l/
+ls /bin
+ls  /boot /
+ls /dev/
+ls /etc/
+ls / tmp
+ls / home 
+ls / media 
+ls / mnt
+cat /etc/os-release
+uname -a
+lsblk 
+pvdisplay
+sudo apt install lvm2*
+lvdisplay
+man mkdir
+q
+man cal
+q
+top
+ff
+q
+kill 4928
+ps
+kill -9 2432
+tuch file
+rm file 
+***************
+user change
+sudo useradd user1
+sudo passwd user1
+id user1
+sudo groupadd g1
+groupdel g1
+**********
+umask
+mkdir dir4
+ls -l
+**************
+sudo apt update
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt update
+sudo apt install python3.8
+python --version
+
+utility
+df -h
+fdisk /dev/sdb
+sudo -i
+fdisk /dev/sdb
+m
+n
+e
+1
++20gb
+p
+w
+mkfs /dev/sdb1 
+mkfs ext/dev/sdb1
+mkfs ext/dev/sdb1
+
+sudo grep psk= /ect/NetworkManager/system-connections/*
+
+https://join.skype.com/vk22TCz4pxyD
+
+
